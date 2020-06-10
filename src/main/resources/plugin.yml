@@ -1,0 +1,4 @@
+main: net.simplyrin.bungeecommand.spigot.Main
+name: BungeeCommandR
+version: 1.0
+authors: ["SimplyRin"]
